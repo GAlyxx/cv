@@ -2,8 +2,8 @@
   "__parent": "./config.json"
 , "person": {
       "name": {
-          "first":  "Tomas"
-        , "last":   "Baltrushaitis"
+          "first":  "Alix"
+        , "last":   "GUYON"
         , "full":   "@{./last} @{./first}"
       }
     , "nick":   "Tom&acute;AS"
@@ -12,10 +12,10 @@
     , "url":    "http://bit.ly/tomascv"
     , "bio": {
           "birth":        "October &apos;82"
-        , "citizenship":  "Ukrainian"
+        , "citizenship":  "Francais"
         , "location": {
-              "country":  "Ukraine"
-            , "city":     "Kyiv"
+              "country":  "France"
+            , "city":     "Dijon"
             , "full":     "@{./country}, @{./city}"
             , "lat":      50.436336
             , "lng":      30.488619
